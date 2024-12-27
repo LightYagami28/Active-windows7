@@ -1,46 +1,74 @@
 # Active Windows 7
 
-A simple tool for activating Windows 7.
+A lightweight and efficient tool for activating Windows 7.
+
+---
 
 ## 🗄 Overview
 
-This project provides a straightforward method to activate Windows 7. The tool is designed to streamline the activation process and ensure that your Windows 7 installation is genuine and properly activated.
+**Active Windows 7** is a simple yet powerful tool designed to activate Windows 7 seamlessly. Whether you're looking for ease of use or compatibility across different editions, this tool offers a reliable way to ensure your Windows 7 installation is genuine and properly activated.
+
+---
 
 ## 💪 Features
 
-- Easy Activation: Simplify the Windows 7 activation process with a user-friendly interface.
-- Compatibility: Works with various editions of Windows 7.
-- Efficiency: Quick and effective activation.
+- **Simple Activation**: Activate Windows 7 effortlessly with an intuitive interface.
+- **Broad Compatibility**: Supports multiple editions of Windows 7.
+- **Fast and Reliable**: Quick activation process with consistent results.
+
+---
 
 ## 🧩 Requirements
 
-- Operating System: Windows 7
-- Permissions: Administrator rights required
+- **Operating System**: Windows 7 (all editions)
+- **Permissions**: Administrator rights
 
-## 🛠️  Installation
+---
 
-1. Download: Obtain the latest version of the tool from the [releases page](https://github.com/oop7/Active-windows7/releases).
-2. Extract: Unzip the downloaded file to a directory of your choice.
+## 🛠️ Installation
 
-## 💻  Usage
+1. **Download**: Get the latest release from the [Releases page](https://github.com/oop7/Active-windows7/releases).
+2. **Extract**: Unzip the downloaded archive to your preferred folder.
 
-1. Launch the tool with administrative rights.
-2. Follow the on-screen instructions to activate your Windows 7 installation.
-3. Restart your computer if prompted to complete the activation process.
+---
+
+## 💻 Usage
+
+1. Run the tool with administrative privileges:
+    - Right-click on the executable and select **"Run as Administrator"**.
+2. Follow the on-screen instructions to complete the activation process.
+3. Restart your system if prompted to finalize the activation.
+
+---
 
 ## ✅ Troubleshooting
 
-- Activation Failed: Ensure you are running the tool as an administrator
-- Compatibility Issues: Verify that you are using the correct version of the tool for your Windows 7 edition.
+- **Activation Failed**: Ensure you are running the tool as an administrator.
+- **Incompatibility**: Check that the tool version matches your Windows 7 edition.
+- **Error Messages**: Consult the issue tracker on GitHub for common solutions.
 
-## 📜  License
+---
 
-This project is licensed under the MIT License.
+## 📜 License
 
-## ℹ️ **Credit**
+This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute under the terms of this license.
 
-- Special thanks to  `Dir3ctr1x`, `MASSGRAVE`, `DEAM0` and `Daz` which was instrumental in this script's functionality.
+---
 
-## ❓ Contact
+## ℹ️ Credits
 
-For questions or support, please open an issue on the GitHub repository.
+Special thanks to the following contributors and projects for their valuable support:
+- [Dir3ctr1x]( https://www.github.com/Dir3ctr1x/EzWindSLIC)
+- [MASSGRAVE](https://github.com/massgravel/Microsoft-Activation-Scripts)
+- [DEAM0](https://github.com/DEAM0/Windows-7-Activator)
+- `Daz`
+
+Their work was instrumental in the functionality of this tool.
+
+---
+
+## ❓ Contact & Support
+
+For questions, feedback, or support:
+- Open an issue on the [GitHub repository](https://github.com/oop7/Active-windows7/issues).
+- Join the discussion or suggest improvements.
